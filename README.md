@@ -44,8 +44,8 @@ The interface is simple and functional, focusing on usability and clarity of use
 
 ## 📷 Preview
 
-<!-- Add a screenshot here -->
-<!-- Example: ![Preview](./assets/screenshot.png) -->
+![Preview](./assets/Captura%20de%20tela%20de%202026-05-09%2023-52-37.png)
+![Preview](./assets//Captura%20de%20tela%20de%202026-05-09%2023-54-32.png)
 
 ---
 
